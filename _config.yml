@@ -1,0 +1,23 @@
+# Site settings
+title: "이시훈의 기술블로그"
+bye_message: "Thx!"
+baseurl: "/blog/"
+url: "https://bloody-skyle.github.io"
+#disqus: bloody-skyle
+
+# Header settings
+nick: "bloody skyle"
+mail:
+    domain: "protonmail"
+    ext: "ch"
+source_code:
+    server: "github.com"
+    nick: "bloody-skyle"
+#blog:
+#    server: "wordpress.com"
+#    nick: "gjuniioor"
+fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
