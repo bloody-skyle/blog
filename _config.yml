@@ -1,5 +1,5 @@
 # Site settings
-title: "이시훈의 기술블로그"
+title: "블러디 스카일의 기술블로그"
 bye_message: "Thx!"
 baseurl: "/blog/"
 url: "https://bloody-skyle.github.io"
@@ -8,11 +8,11 @@ url: "https://bloody-skyle.github.io"
 # Header settings
 nick: "bloody skyle"
 mail:
-    domain: "protonmail"
-    ext: "ch"
+  domain: "protonmail"
+  ext: "ch"
 source_code:
-    server: "github.com"
-    nick: "bloody-skyle"
+  server: "github.com"
+  nick: "bloody-skyle"
 #blog:
 #    server: "wordpress.com"
 #    nick: "gjuniioor"
