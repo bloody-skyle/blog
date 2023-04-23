@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "[광고]code-code.site"
+categories:
+  - blog
 ---
 
 <h1>code-code.site</h1>
