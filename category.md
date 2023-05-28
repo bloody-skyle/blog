@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Category List"
-permalink: /category/
+permalink: /blog/category/
 ---
 
 <header>
