@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[광고]code-code.site"
+date: 9999-12-99 03:00:00
 categories:
   - blog
 ---
@@ -12,4 +13,4 @@ categories:
 
 어서 들어오세요!
 
-→<a href="www.code-code.site">code.code-site</a>←
+→<a href="www.code-code.site">www.code-code.site</a>←
